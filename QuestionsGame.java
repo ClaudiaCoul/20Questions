@@ -1,5 +1,4 @@
-// Claudia Coulibaly
-//CSE 143 AC with Dylan Jergens
+
 //QuestionsGame allows a user to play a game of "20 Questions"
 //but with an unlimited number of guesses. Can start from scratch or
 //from a file already containing questions and possible answers!
